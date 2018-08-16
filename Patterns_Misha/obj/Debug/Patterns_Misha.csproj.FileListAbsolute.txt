@@ -1,0 +1,6 @@
+C:\Users\misha\Desktop\Patterns\Patterns_Misha\Patterns_Misha\obj\Debug\Patterns_Misha.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Patterns\Patterns_Misha\Patterns_Misha\bin\Debug\Patterns_Misha.exe.config
+C:\Users\misha\Desktop\Patterns\Patterns_Misha\Patterns_Misha\bin\Debug\Patterns_Misha.exe
+C:\Users\misha\Desktop\Patterns\Patterns_Misha\Patterns_Misha\bin\Debug\Patterns_Misha.pdb
+C:\Users\misha\Desktop\Patterns\Patterns_Misha\Patterns_Misha\obj\Debug\Patterns_Misha.exe
+C:\Users\misha\Desktop\Patterns\Patterns_Misha\Patterns_Misha\obj\Debug\Patterns_Misha.pdb
